@@ -1,0 +1,6 @@
+faire inner join dans CRUD.php car, ça modifie mais pas dans tout les tableaux
+modifier l'interface du tableau CRUD qui permet de modifier les users 
+- faire le front du site
+- role : admin | user
+créer un tableau unique pour le dashboard
+- admin doit pouvoir supprimer un utilisateur
