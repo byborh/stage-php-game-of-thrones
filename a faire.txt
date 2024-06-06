@@ -4,3 +4,5 @@ modifier l'interface du tableau CRUD qui permet de modifier les users
 - role : admin | user
 créer un tableau unique pour le dashboard
 - admin doit pouvoir supprimer un utilisateur
+- exporter ma base de donnée pour le mettre sur github
+- ajouter d'autres fonctionnalités pour l'utilisateur à part regarder le personnage
